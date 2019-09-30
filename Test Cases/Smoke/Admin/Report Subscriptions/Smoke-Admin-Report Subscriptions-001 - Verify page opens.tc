@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Admin-Report Subscriptions-001 - Verify page opens</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1168e80-5d2b-4685-bc90-5d69761e314e</testCaseGuid>
+</TestCaseEntity>

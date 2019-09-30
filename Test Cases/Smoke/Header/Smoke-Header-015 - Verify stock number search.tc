@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Header-015 - Verify stock number search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cafaca81-7a63-4941-a8fb-45fc182760ad</testCaseGuid>
+</TestCaseEntity>

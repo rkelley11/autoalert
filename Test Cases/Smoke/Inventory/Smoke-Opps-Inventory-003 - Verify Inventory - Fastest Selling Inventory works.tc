@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Opps-Inventory-003 - Verify Inventory - Fastest Selling Inventory works</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d81f07ae-1bf3-4497-a885-059654f48112</testCaseGuid>
+</TestCaseEntity>

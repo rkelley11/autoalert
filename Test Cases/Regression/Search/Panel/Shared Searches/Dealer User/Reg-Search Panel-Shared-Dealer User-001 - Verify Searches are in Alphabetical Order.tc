@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reg-Search Panel-Shared-Dealer User-001 - Verify Searches are in Alphabetical Order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>207c56ac-cf84-4a2b-91c9-112a0cdce25e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reg-Search Page-Vehicle Section-001 - Verify Labels, Dropdowns, Inputs and Hover Over Messages</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad519ddf-3ee0-4494-b856-acce196849fa</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+Reports/*
+bin/*
+.DS_Store
+Libs/*
+.settings/*
+.classpath
+.svn/*
+.project
+console.properties
+/bin/
+Test Suites/Reruns

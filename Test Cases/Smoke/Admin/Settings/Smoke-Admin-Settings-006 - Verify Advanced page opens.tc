@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Admin-Settings-006 - Verify Advanced page opens</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23069922-bf6a-4015-b563-6a0df8c858e9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reg-Search Panel-My Searches-Dealer User-006 - Verify Duplicate Shared Search Not Allowed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98e07a73-774e-466e-aea9-8a3da6398b20</testCaseGuid>
+</TestCaseEntity>

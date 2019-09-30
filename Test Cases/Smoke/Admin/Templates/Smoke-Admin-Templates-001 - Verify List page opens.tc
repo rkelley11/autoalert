@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Admin-Templates-001 - Verify List page opens</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9ef1bb5-1037-4745-a76e-a4754c696998</testCaseGuid>
+</TestCaseEntity>

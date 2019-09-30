@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Admin-Templates-003 - Verify Upgrade Proposal page opens</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41d0a6a5-2f0b-4faf-899c-de27af01fa2c</testCaseGuid>
+</TestCaseEntity>

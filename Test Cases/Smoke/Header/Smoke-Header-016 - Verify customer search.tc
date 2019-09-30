@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Header-016 - Verify customer search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0fd8f2f8-8542-4d2d-bcd6-76492a990d00</testCaseGuid>
+</TestCaseEntity>

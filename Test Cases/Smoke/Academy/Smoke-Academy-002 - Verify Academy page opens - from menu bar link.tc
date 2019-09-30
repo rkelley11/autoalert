@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Academy-002 - Verify Academy page opens - from menu bar link</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>104279dc-daaa-458e-a110-b10c75a3084d</testCaseGuid>
+</TestCaseEntity>

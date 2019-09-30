@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reg-DS-EVD-Mileage-002 - Verify Update Mileage - Selecting Today on Calendar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>343d5486-1eff-4e63-860a-124195d429bc</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Data Entry-006 - Verify Advanced page opens</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b77cb179-f0d5-4658-9c21-82b830ba8005</testCaseGuid>
+</TestCaseEntity>

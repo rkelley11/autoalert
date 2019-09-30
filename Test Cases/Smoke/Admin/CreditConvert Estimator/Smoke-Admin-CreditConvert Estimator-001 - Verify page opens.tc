@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Admin-CreditConvert Estimator-001 - Verify page opens</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6950b2a-b759-4b1d-9b08-9f9f2d653dcf</testCaseGuid>
+</TestCaseEntity>

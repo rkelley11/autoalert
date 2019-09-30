@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Admin-Users-001 - Verify page opens</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd2414b9-ff9f-4d83-905f-e81765165327</testCaseGuid>
+</TestCaseEntity>

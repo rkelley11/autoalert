@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Data Entry-002 - Verify Rates page opens</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ef79c53-6b7b-4b31-b652-71c17ae9e4c0</testCaseGuid>
+</TestCaseEntity>

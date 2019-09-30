@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Help-002 - Verify Contact Us page opens</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>412ddf11-d67b-4406-96b7-add3dd848b1f</testCaseGuid>
+</TestCaseEntity>

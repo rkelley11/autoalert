@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Admin-Pando Integration-001 - Verify page opens</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef5e74d8-de10-4a9c-bb33-5bbe9c3498f6</testCaseGuid>
+</TestCaseEntity>

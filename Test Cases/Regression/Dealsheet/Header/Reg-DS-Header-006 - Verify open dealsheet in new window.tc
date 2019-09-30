@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Reg-DS-Header-006 - Verify open dealsheet in new window</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68c8ba6f-b16b-439d-90ae-45af97bad873</testCaseGuid>
+</TestCaseEntity>

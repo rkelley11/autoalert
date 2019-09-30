@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Admin-Notifications-001 - Verify page opens</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>abb5044e-c599-45b6-b601-a84b78c594c2</testCaseGuid>
+</TestCaseEntity>

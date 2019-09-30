@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Admin-Settings-008 - Verify CRM Leads Delivery page opens</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3ad0a58-4241-493a-846c-8b93a911e502</testCaseGuid>
+</TestCaseEntity>

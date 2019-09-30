@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-AlertDesk-016 - Verify F and I Manager - Missed Opportunities works</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1875736-ef79-4c6b-af00-9b0e4f9d24a6</testCaseGuid>
+</TestCaseEntity>

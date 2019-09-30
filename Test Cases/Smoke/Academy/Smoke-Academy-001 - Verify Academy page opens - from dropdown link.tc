@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Academy-001 - Verify Academy page opens - from dropdown link</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4957e4e7-a909-4724-9178-a32f0d6a25a4</testCaseGuid>
+</TestCaseEntity>

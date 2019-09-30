@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Header-006 - Verify Customer Engagement popup displays</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be76d324-79af-4a03-8f96-2666df2a1f7f</testCaseGuid>
+</TestCaseEntity>

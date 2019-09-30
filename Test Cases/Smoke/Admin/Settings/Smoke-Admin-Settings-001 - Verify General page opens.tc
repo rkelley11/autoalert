@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Admin-Settings-001 - Verify General page opens</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6f812789-f84b-49e1-9cb6-13222fc2accd</testCaseGuid>
+</TestCaseEntity>

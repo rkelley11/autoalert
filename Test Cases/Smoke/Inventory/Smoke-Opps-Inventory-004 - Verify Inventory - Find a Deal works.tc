@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Opps-Inventory-004 - Verify Inventory - Find a Deal works</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86e01360-2b3b-4efb-93a5-7a4e3657276c</testCaseGuid>
+</TestCaseEntity>

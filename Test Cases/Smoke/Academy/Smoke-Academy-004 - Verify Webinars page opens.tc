@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Academy-004 - Verify Webinars page opens</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>59801086-4d39-4def-9299-f09d07ecb8d6</testCaseGuid>
+</TestCaseEntity>

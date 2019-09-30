@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Data Entry-001 - Verify Prices page opens</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca1c5680-f097-45d3-9db0-85ea724600be</testCaseGuid>
+</TestCaseEntity>

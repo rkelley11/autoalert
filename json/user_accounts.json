@@ -1,0 +1,62 @@
+{
+	"automation1": {
+		"password": "1wHyeSvmU2U=",
+		"name": "QA Automation 1",
+		"type": "Employee",
+		"dealer": null
+	},
+	"automation2": {
+		"password": "1wHyeSvmU2U=",
+		"name": "QA Automation 2",
+		"type": "Employee",
+		"dealer": null
+	},
+	"automation3": {
+		"password": "1wHyeSvmU2U=",
+		"name": "QA Automation 3",
+		"type": "Employee",
+		"dealer": null
+	},
+	"automation4": {
+		"password": "1wHyeSvmU2U=",
+		"name": "QA Automation 4",
+		"type": "Dealer Admin",
+		"dealer": "CH Demo"
+	},
+	"automation5": {
+		"password": "1wHyeSvmU2U=",
+		"name": "QA Automation 5",
+		"type": "Dealer Admin",
+		"dealer": "CH Demo"
+	},
+	"automation6": {
+		"password": "1wHyeSvmU2U=",
+		"name": "QA Automation 6",
+		"type": "Dealer Admin",
+		"dealer": "CH Demo"
+	},
+	"automation7": {
+		"password": "1wHyeSvmU2U=",
+		"name": "QA Automation 7",
+		"type": "Dealer Admin",
+		"dealer": "CH Demo"
+	},
+	"automation8": {
+		"password": "1wHyeSvmU2U=",
+		"name": "QA Automation 8",
+		"type": "Dealer Admin",
+		"dealer": "CH Demo"
+	},
+	"automation9": {
+		"password": "1wHyeSvmU2U=",
+		"name": "QA Automation 9",
+		"type": "Dealer Admin",
+		"dealer": "CH Demo"
+	},
+	"automation10": {
+		"password": "1wHyeSvmU2U=",
+		"name": "QA Automation 10",
+		"type": "Sales, All Clients",
+		"dealer": "CH Demo"
+	}
+}

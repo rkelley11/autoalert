@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-AlertDesk-013 - Verify F and I Manager - Work Sheet works</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc449260-dd22-48a7-83de-a7c513bdbe29</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SmokeReg-QuickLinks-009 - Verify Service Drive - Service Monitor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>adf3539d-32f6-4963-aae7-1bd02355683e</testCaseGuid>
+</TestCaseEntity>

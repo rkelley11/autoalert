@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-6234.392 11239.741 51.97 52.301">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3fb34f;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Symbol_130_1" data-name="Symbol 130 – 1" transform="translate(-7752 10974)">
+    <ellipse id="Ellipse_263" data-name="Ellipse 263" class="cls-1" cx="25.985" cy="26.15" rx="25.985" ry="26.15" transform="translate(1517.608 265.741)"/>
+    <g id="Group_726" data-name="Group 726" transform="translate(1526.963 274.606)">
+      <g id="Group_725" data-name="Group 725">
+        <g id="Group_724" data-name="Group 724">
+          <path id="Path_1889" data-name="Path 1889" class="cls-2" d="M17.647.5A17.256,17.256,0,1,1,.5,17.756,17.2,17.2,0,0,1,17.647.5Z" transform="translate(-0.5 -0.5)"/>
+          <line id="Line_90" data-name="Line 90" class="cls-2" y2="12.769" transform="translate(17.146 3.636)"/>
+          <path id="Path_1890" data-name="Path 1890" class="cls-2" d="M10.151,3.418,0,0" transform="translate(17.993 18.095)"/>
+          <ellipse id="Ellipse_264" data-name="Ellipse 264" class="cls-3" cx="2.115" cy="2.128" rx="2.115" ry="2.128" transform="translate(15.033 15.128)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Admin-Settings-005 - Verify Dealer Info page opens</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2a53b8f-584e-4416-b43d-8fb44c97cce9</testCaseGuid>
+</TestCaseEntity>

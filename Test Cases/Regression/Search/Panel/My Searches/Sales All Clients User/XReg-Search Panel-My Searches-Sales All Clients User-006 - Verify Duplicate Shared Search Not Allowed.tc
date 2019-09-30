@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>XReg-Search Panel-My Searches-Sales All Clients User-006 - Verify Duplicate Shared Search Not Allowed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0dcf30e-a5da-44b4-9066-e03cb6a12599</testCaseGuid>
+</TestCaseEntity>

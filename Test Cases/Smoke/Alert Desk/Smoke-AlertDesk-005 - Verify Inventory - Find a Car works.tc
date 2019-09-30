@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-AlertDesk-005 - Verify Inventory - Find a Car works</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d17522b3-f59f-4a1b-ab4e-cf6bbeda0a54</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-6234.392 11364.699 51.97 52.301">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bdbfc2;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Symbol_132_1" data-name="Symbol 132 – 1" transform="translate(-7752 10974)">
+    <path id="Path_6247" data-name="Path 6247" class="cls-1" d="M25.985,0A26.151,26.151,0,1,1,0,26.15,26.068,26.068,0,0,1,25.985,0Z" transform="translate(1517.608 390.699)"/>
+    <g id="Group_726" data-name="Group 726" transform="translate(1526.963 399.564)">
+      <g id="Group_725" data-name="Group 725">
+        <g id="Group_724" data-name="Group 724">
+          <path id="Path_1889" data-name="Path 1889" class="cls-2" d="M17.647.5A17.256,17.256,0,1,1,.5,17.756,17.2,17.2,0,0,1,17.647.5Z" transform="translate(-0.5 -0.5)"/>
+          <line id="Line_90" data-name="Line 90" class="cls-2" y2="12.769" transform="translate(17.146 3.636)"/>
+          <path id="Path_1890" data-name="Path 1890" class="cls-2" d="M10.151,3.418,0,0" transform="translate(17.993 18.095)"/>
+          <ellipse id="Ellipse_264" data-name="Ellipse 264" class="cls-3" cx="2.115" cy="2.128" rx="2.115" ry="2.128" transform="translate(15.033 15.128)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Data Entry-004 - Verify Trade-Ins page opens</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be529099-4622-49eb-a7f5-714ea3a2a8fa</testCaseGuid>
+</TestCaseEntity>

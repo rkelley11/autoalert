@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Admin-Roles-002 - Verify Access Rights page opens</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d87ff363-4ed4-4e86-899b-0d861b14ebe7</testCaseGuid>
+</TestCaseEntity>

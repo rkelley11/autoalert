@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Admin-Do Not Call Email-001 - Verify page opens</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7975070d-1192-4013-9ea5-b4c6abf86513</testCaseGuid>
+</TestCaseEntity>

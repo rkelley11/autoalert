@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke-Academy-005 - Verify Calendar page opens</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c78cf9c-60dd-4e9f-be40-839a2ba480a3</testCaseGuid>
+</TestCaseEntity>
